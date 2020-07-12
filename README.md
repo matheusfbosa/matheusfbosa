@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400">
+<h2> Hi, I'm Matheus Bosa! 👋 </h2>
 
-<!--
-**bosamatheus/bosamatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Backend Developer at <a href="https://www.gft.com/">GFT</a> and <a href="https://www.bancobv.com.br/">Banco Votorantim</a>.
+<br />
+I've a degree in Electrical Engineering from the <a href="https://www.ufpr.br">Federal University of Paraná</a>.
+</em></p>
 
-Here are some ideas to get you started:
+[![Linkedin: matheusbosa](https://img.shields.io/badge/-matheusbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusbosa/)](https://www.linkedin.com/in/matheusbosa/)
+[![Portfolio](https://img.shields.io/github/followers/bosamatheus?label=follow&style=social)](https://bosamatheus.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+const bosa = {
+  code: [Java, Python, JavaScript],
+  learning: [Golang, Rust],
+  loves: ["Data Science", "Machine Learning", "Coffee"]
+}
+```
