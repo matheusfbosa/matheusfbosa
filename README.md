@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400">
 <h2> Hi, I'm Matheus Bosa! 👋 </h2>
 
-<p><em>Backend Developer at <a href="https://www.gft.com/">GFT</a> and <a href="https://www.bancobv.com.br/">Banco BV</a>.
+<p><em>Backend Developer at <a href="https://www.gft.com/">GFT</a> and working for <a href="https://www.bancobv.com.br/">Banco BV</a>.
 <br />
 I've a degree in Electrical Engineering from the <a href="https://www.ufpr.br">Federal University of Paraná</a>.
 </em></p>
