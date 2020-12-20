@@ -11,10 +11,10 @@ I've a degree in Electrical Engineering from the <a href="https://www.ufpr.br">F
 
 ### A little more about me...  
 
-```javascript
-const bosa = {
-  code: ["Java", "Go", "Python"],
-  learning: ["TensorFlow", "Kotlin"],
-  loves: ["Machine Learning", "Web Development", "Coffee"]
-}
+```python
+def me:
+  code = ["Java", "Go", "Python"]
+  learning = ["TensorFlow", "Kotlin"]
+  loves = ["Machine Learning", "Web Development", "Coffee"]
+  print("Please don't hesitate to contact me")
 ```
