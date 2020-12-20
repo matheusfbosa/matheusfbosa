@@ -13,8 +13,8 @@ I've a degree in Electrical Engineering from the <a href="https://www.ufpr.br">F
 
 ```javascript
 const bosa = {
-  code: ["Java", "Go", "Python", "JavaScript"],
-  learning: ["PyTorch", "TensorFlow"],
+  code: ["Java", "Go", "Python"],
+  learning: ["TensorFlow", "Kotlin"],
   loves: ["Machine Learning", "Web Development", "Coffee"]
 }
 ```
