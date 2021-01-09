@@ -3,7 +3,7 @@
 
 <p><em>Software Engineer at <a href="https://www.gft.com/">GFT</a> and currently working for <a href="https://www.bancobv.com.br/">banco BV</a>.
 <br />
-I have a degree in Electrical Engineering from the <a href="https://www.ufpr.br">Federal University of Paraná</a>.
+I have a degree in Electrical Engineering from the <a href="https://www.ufpr.br">Universidade Federal do Paraná (UFPR)</a>.
 </em></p>
 
 [![Linkedin: matheusbosa](https://img.shields.io/badge/-matheusbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusbosa/)](https://www.linkedin.com/in/matheusbosa/)
