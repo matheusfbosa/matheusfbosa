@@ -1,5 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400">
-<h2> Hi, I'm Matheus Bosa! 👋 </h2>
+<h2> Hey there! I'm Matheus Bosa! 👋 </h2>
 
 <p><em>Software Engineer at GFT.
 <br />
