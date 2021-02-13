@@ -3,7 +3,7 @@
 
 <p><em>Software Engineer at GFT.
 <br />
-I have a degree in Electrical Engineering from Universidade Federal do Paraná.
+Bachelor degree in Electrical Engineering from Federal University of Paraná.
 </em></p>
 
 [![Linkedin: matheusbosa](https://img.shields.io/badge/-matheusbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusbosa/)](https://www.linkedin.com/in/matheusbosa/)
