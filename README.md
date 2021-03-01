@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400">
 <h2> Hey there! I'm Matheus Bosa! 👋 </h2>
 
-<p><em>Software Engineer at GFT.
+<p><em>Software Developer at GFT.
 <br />
 Bachelor degree in Electrical Engineering from Federal University of Paraná.
 </em></p>
