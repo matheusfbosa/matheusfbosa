@@ -3,7 +3,7 @@
 
 <p><em>Software Developer.
 <br />
-Electrical engineer from Federal University of Paraná (UFPR).
+Electrical Engineer from Federal University of Paraná (UFPR).
 </em></p>
 
 [![Linkedin: matheusbosa](https://img.shields.io/badge/-matheusbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusbosa/)](https://www.linkedin.com/in/matheusbosa/)
