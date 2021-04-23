@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400">
 <h2> Hey there! I'm Matheus Bosa! 👋 </h2>
 
-<p><em>Software Developer at B2W Digital.
+<p><em>Software Engineer.
 <br />
 Electrical Engineer from Federal University of Paraná (UFPR).
 </em></p>
