@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400">
 <h2> Hey there! I'm Matheus Bosa! 👋 </h2>
 
-<p><em>Software Engineer.
+<p><em>Software Engineer with experience in Golang and Java.
 <br />
 Electrical Engineer from Federal University of Paraná (UFPR).
 </em></p>
@@ -13,8 +13,8 @@ Electrical Engineer from Federal University of Paraná (UFPR).
 
 ```python
 def me:
-  code = ["Go", "Java", "Python"]
-  learning = ["Machine Learning"]
+  code = ["Golang", "Python", "Java"]
+  learning = ["Machine Learning", "Apache Airflow"]
   loves = ["Web Development", "Coffee"]
   print("Please don't hesitate to contact me")
 ```
