@@ -12,7 +12,7 @@ Electrical Engineer from Federal University of Paraná (UFPR).
 ### A little more about me...  
 
 ```go
-func me():
+func interests():
   code := []string{"Golang", "Python", "Java"}
   learning := []string{"Machine Learning", "Data Engineering"}
   loves := []string{"Technology", "Coffee", "Movies"}
