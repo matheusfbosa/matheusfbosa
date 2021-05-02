@@ -11,10 +11,9 @@ Electrical Engineer from Federal University of Paraná (UFPR).
 
 ### A little more about me...  
 
-```python
-def me:
-  code = ["Golang", "Python", "Java"]
-  learning = ["Machine Learning", "Apache Airflow"]
-  loves = ["Web Development", "Coffee"]
-  print("Please don't hesitate to contact me")
+```go
+func me():
+  code := []string{"Golang", "Python", "Java"}
+  learning := []string{"Machine Learning", "Data Engineering"}
+  loves := []string{"Technology", "Coffee", "Movies"}
 ```
