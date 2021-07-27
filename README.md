@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400">
 <h2> Hey there! I'm Matheus Bosa! 👋 </h2>
 
-<p><em>Software Engineer with experience in Golang and Java.
+<p><em>Tech Leand & Software Engineer with experience in Golang and Java.
 <br />
 Electrical Engineer from Federal University of Paraná (UFPR).
 </em></p>
