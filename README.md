@@ -2,7 +2,6 @@
 <h2>Hey there! I'm Matheus Bosa! 👋</h2>
 
 <p><em>Tech Lead & Software Engineer who loves concurrency features in Golang, robustness of Java ecosystem, and to build scripts with Python simplicity.
-  Al
 <br />
 Electrical Engineer from Federal University of Paraná (UFPR).
 </em></p>
