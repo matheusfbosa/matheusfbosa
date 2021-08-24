@@ -6,8 +6,11 @@
 Electrical Engineer from Federal University of Paraná (UFPR).
 </em></p>
 
-[![Linkedin: matheusbosa](https://img.shields.io/badge/-matheusbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusbosa/)](https://www.linkedin.com/in/matheusbosa/)
-[![Portfolio](https://img.shields.io/github/followers/bosamatheus?label=follow&style=social)](https://bosamatheus.github.io/)
+<h2>👀 GitHub Stats</h2>
+
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=bosamatheus)](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosamatheus&layout=compact)](#)
 
 ### A little more about me...  
 
@@ -17,3 +20,6 @@ func interests():
   learning := []string{"Machine Learning", "Data Engineering"}
   loves := []string{"Technology", "Coffee", "Movies"}
 ```
+
+[![Linkedin: matheusbosa](https://img.shields.io/badge/-matheusbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusbosa/)](https://www.linkedin.com/in/matheusbosa/)
+[![Portfolio](https://img.shields.io/github/followers/bosamatheus?label=follow&style=social)](https://bosamatheus.github.io/)
