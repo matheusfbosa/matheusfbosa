@@ -6,7 +6,7 @@
 Electrical Engineer from Federal University of Paraná (UFPR).
 </em></p>
 
-<h2>👀 GitHub Stats</h2>
+<h2>GitHub Stats 👀</h2>
 
 [![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=bosamatheus)](#)
 
