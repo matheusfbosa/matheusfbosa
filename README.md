@@ -20,10 +20,11 @@ Electrical Engineer from Federal University of Paraná (UFPR).
 <h2>A little more about me...<h2>
 
 ```go
-func interests():
+func interests() {
   code := []string{"Golang", "Python", "Java"}
   learning := []string{"Machine Learning", "Data Engineering"}
   loves := []string{"Technology", "Coffee", "Movies"}
+}
 ```
 
 [![Linkedin: matheusbosa](https://img.shields.io/badge/-matheusbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusbosa/)](https://www.linkedin.com/in/matheusbosa/)
