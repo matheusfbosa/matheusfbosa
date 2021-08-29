@@ -8,11 +8,16 @@ Electrical Engineer from Federal University of Paraná (UFPR).
 
 <h2>GitHub Stats 👀</h2>
 
-[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=bosamatheus)](#)
+<center>
+  <table>
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosamatheus&hide=html&layout=compact&theme=buefy" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=bosamatheus&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosamatheus&layout=compact)](#)
-
-### A little more about me...  
+<h2>A little more about me...<h2>
 
 ```go
 func interests():
