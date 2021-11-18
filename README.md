@@ -1,4 +1,4 @@
-<img align='right' src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" width="400">
+<img align='right' src="https://pin.it/4cdtN5w" width="400">
 <h2>Hey there! I'm Matheus Bosa! 👋</h2>
 
 <p><em>Software Engineer with experience in Java, Golang, and Python.
