@@ -1,7 +1,9 @@
 <img align='right' src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" width="400">
 <h2>Hey there! I'm Matheus Bosa! 👋</h2>
 
-<p><em>Tech Lead & Software Engineer who loves concurrency features in Golang, robustness of Java ecosystem, and to build scripts with Python simplicity.
+<p><em>Software Engineer with experience in Java, Golang, and Python.
+<br />
+Google Certified Associate Cloud Engineer.
 <br />
 Electrical Engineer from Federal University of Paraná (UFPR).
 </em></p>
@@ -19,11 +21,9 @@ Electrical Engineer from Federal University of Paraná (UFPR).
 
 <h2>A little more about me...<h2>
 
-```go
-func interests() {
-  code := []string{"Golang", "Python", "Java"}
-  learning := []string{"Machine Learning", "Data Engineering"}
-  loves := []string{"Technology", "Coffee", "Movies"}
+```kotlin
+fun me() {
+  val interests = mapOf(1 to "Kotlin", 2 to "Data Engineering", 3 to "Coffee")
 }
 ```
 
