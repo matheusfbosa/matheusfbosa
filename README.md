@@ -7,17 +7,6 @@ Google Certified Associate Cloud Engineer.
 Electrical Engineer from Federal University of Paraná (UFPR).
 </em></p>
 
-<h2>GitHub Stats 👀</h2>
-
-<center>
-  <table>
-    <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosamatheus&hide=html&layout=compact&theme=buefy" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=bosamatheus&theme=buefy"/></td>
-    </tr>   
-  </table>
-</center>
-
 <h2>A little more about me...<h2>
 
 ```kotlin
