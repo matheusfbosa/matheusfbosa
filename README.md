@@ -1,4 +1,4 @@
-<img align='right' src="https://introcs.cs.princeton.edu/java/15inout/duke.gif" width="400">
+<img align='right' src="https://introcs.cs.princeton.edu/java/15inout/duke.gif" width="200">
 <h2>Hey there! I'm Matheus Bosa! 👋</h2>
 
 <p><em>Software Engineer with experience in Java, Golang, and Python.
