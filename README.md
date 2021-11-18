@@ -22,7 +22,7 @@ Electrical Engineer from Federal University of Paraná (UFPR).
 
 ```kotlin
 fun me() {
-  val interests = mapOf(1 to "Kotlin", 2 to "Data Engineering", 3 to "Coffee")
+  val interests = mapOf(1 to "Kotlin", 2 to "Data Engineering")
 }
 ```
 
