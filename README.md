@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Matheus Bosa! 👋</h2>
 
-<p><em>Software Engineer with experience in Golang, Java, and Python.
+<p><em>Software Engineer with experience in Golang, Kotlin, Java, and Python.
 <br />
 Google Certified Associate Cloud Engineer.
 <br />
