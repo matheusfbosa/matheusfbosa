@@ -1,13 +1,13 @@
 <h2>Hey there! I'm Matheus Bosa! 👋</h2>
 
-<p><em>Senior Software Engineer with T-Shaped skills and experience in Java Spring, Golang, ReactJS, Kotlin, and Swift technologies.
+<p><em>Software Engineer with T-Shaped skills and experience in Java, Golang, VueJS, and Kotlin.
 <br /><br />
-Certified as a Google Associate Cloud Engineer and as an Oracle Cloud Foundations Associate.
+Education background in Electrical Engineering.
 <br />
-Electrical Engineer from Federal University of Paraná (UFPR).
+Also certified as a AWS Soluctions Architect Associate and as a Google Associate Cloud Engineer.
 <br /><br />
 Feel free to get in touch with me!
 </em></p>
 
-[![Linkedin: matheusbosa](https://img.shields.io/badge/-matheusbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusbosa/)](https://www.linkedin.com/in/matheusbosa/)
-[![Portfolio](https://img.shields.io/github/followers/bosamatheus?label=follow&style=social)](https://bosamatheus.github.io/)
+[![Linkedin: matheusfbosa](https://img.shields.io/badge/-matheusfbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfbosa/)](https://www.linkedin.com/in/matheusfbosa/)
+[![Portfolio](https://img.shields.io/github/followers/matheusfbosa?label=follow&style=social)](https://matheusfbosa.github.io/)
