@@ -4,7 +4,7 @@
 <br /><br />
 Education background in Electrical Engineering.
 <br />
-Also certified as a AWS Soluctions Architect Associate and as a Google Associate Cloud Engineer.
+Certified as AWS Soluctions Architect Associate.
 <br /><br />
 Feel free to get in touch with me!
 </em></p>
