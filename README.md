@@ -7,7 +7,7 @@ Feel free to get in touch with me!
 <center>
   <table>
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfbosa&hide=html&layout=compact&theme=buefy" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfbosa&hide=html&layout=compact&theme=dracula" /></td>
     </tr>
   </table>
 </center>
